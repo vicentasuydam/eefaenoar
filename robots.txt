@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hiazahtiec.castellanosasociados.com/sitemap.xml
